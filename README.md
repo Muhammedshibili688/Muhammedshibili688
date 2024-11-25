@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Muhammed Shibili
+I'm Muhammed Shibili<br>
 🔭I'm currently working on Data Analytics as an Intern<br>🧑🏽‍💻I'm looking to collaborate with SME on Data Analytics, Data Scientist and ML operations<br>🆘I'm looking for help to simplify ML algos<br>🪴I'm currently learning MLops from Antern<br>💭Ask me about Data Analytics, Tablue, PowerBI, Python, SQL<br>
 
 
