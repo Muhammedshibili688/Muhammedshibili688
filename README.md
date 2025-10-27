@@ -52,11 +52,6 @@
 - Provided insights on **performance trends, department-level contributions, and ratings**.  
 - Integrated slicers and filters for dynamic reporting and visualization.
 
-#### 📸 Dashboard Previews
-*(You can replace these placeholders with your actual image URLs later)*  
-![D-mart Dashboard](https://github.com/Muhammedshibili688/Muhammedshibili688/blob/main/assets/dmart_dashboard.png)  
-![Employee Dashboard](https://github.com/Muhammedshibili688/Muhammedshibili688/blob/main/assets/employee_dashboard.png)
-
 ---
 
 ## 🧠 Languages I Use
