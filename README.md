@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Muhammed Shibili  
-**Data Scientist | AI & ML Specialist**  
+**Data Scientist | AI & ML | Mlops Engineer**  
 
-🔭 Currently working on **Data Analytics** as an Intern  
+🔭 Currently working as **Data Scientist**
 🧠 Passionate about **Machine Learning, Data Science, and AI-driven analytics**  
 🤝 Open to collaborate on **AI, ML, and MLOps** projects  
 📈 Exploring **MLOps workflows, cloud-based model deployment, and data engineering**  
@@ -85,13 +85,6 @@
 - Serving models with **Flask / FastAPI**
 - Cloud ML workflows (AWS, Azure, GCP)
 - Monitoring & versioning with **MLflow and DVC**
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Muhammedshibili688&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammedshibili688&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedshibili688&theme=dark&hide_border=false&layout=compact)
 
 ---
 
